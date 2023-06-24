@@ -1,0 +1,75 @@
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" >
+  <div class="carousel-inner">
+    <div class="carousel-item active" >
+      <div class="slide-container">
+        <div class="image">
+          <img src="assets/Bilder/1_Seepferdchen_Slideshow.jpg" class="d-block w-100" alt="Bild 1">
+        </div>
+        <div class="content">
+          <h4>Wer cool ist, scheut das Wasser <br>
+            nicht. Es muss nicht immer nur <br>
+            Schwimmen sein.</h4>
+          <button class="btn mt-3 button"><a href="seepferdchen.html" style="color: #FFFFFF;">Mehr erfahren</a></button>
+        </div>
+      </div>
+    </div>
+<!-- Bild -->
+    <div class="carousel-item">
+      <div class="slide-container">
+        <div class="image">
+          <img src="assets/Bilder/2_Kindergeburtstag_Slideshow.jpg" class="d-block w-100 "  alt="Bild 2">
+        </div>
+<!-- Kästechen mit Text  -->
+        <div class="content">
+          <h4>Wasservergnügen ohne Ende. <br>
+            Eine fröhliche Rutschpartie zum 
+            Kindergeburtstag.</h4>
+          <button class="btn mt-3 button"><a href="kindergeburtstag.html" style="color: #FFFFFF;">Mehr erfahren</a></button>
+        </div>
+      </div>
+    </div>
+<!-- Bild -->
+    <div class="carousel-item">
+      <div class="slide-container">
+        <div class="image">
+          <img src="assets/Bilder/3 Silber Slideshow.jpg" class="d-block w-100" alt="Bild 3">
+        </div>
+<!-- Kästechen mit Text  -->
+        <div class="content">
+          <h4>Wer tauchen kann, geht nicht<br>
+            unter. Silberstreif am Horizont.</h4>
+          <button class="btn mt-3 button"><a href="jugendholtsilber.html" style="color: #FFFFFF;">Mehr erfahren</a></button>
+        </div>
+      </div>
+    </div>
+<!-- Bild -->
+    <div class="carousel-item">
+      <div class="slide-container">
+        <div class="image">
+          <img src="assets/Bilder/4_Kino_Slideshow.jpg" class="d-block w-100 "  alt="Bild 4">
+        </div>
+<!-- Kästechen mit Text  -->
+        <div class="content">
+          <h4>Einfach gemeinsam abtauchen. <br>
+            Ein Familienvergnügen par<br>
+            excellence.</h4>
+          <button class="btn mt-3 button"><a href="kino.html" style="color: #FFFFFF;">Mehr erfahren</a></button>
+        </div>
+      </div>
+    </div>
+<!-- Bild -->
+    <div class="carousel-item">
+      <div class="slide-container">
+        <div class="image">
+          <img src="assets/Bilder/5_Fitness_angebote_Slideshow.jpg" class="d-block w-100 " alt="Bild 5">
+        </div>
+<!-- Kästechen mit Text  -->
+        <div class="content">
+          <h4>Wer cool ist, scheut das Wasser <br>
+            nicht. Es muss nicht immer nur 
+            Schwimmen sein.</h4>
+          <button class="btn mt-3 button"><a href="aquafitness.html" style="color: #FFFFFF;">Mehr erfahren</a></button>
+        </div>
+      </div>
+    </div>
+  </div>
